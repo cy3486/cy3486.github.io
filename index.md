@@ -14,10 +14,10 @@
 以后会放一些其他社交平台的账号。
 欢迎关注和交流。
 
-https://steamcommunity.com/id/cy3486/
+<a href = "https://steamcommunity.com/id/cy3486/">Steam</a>
 
-https://live.bilibili.com/96776
+<a href = "https://live.bilibili.com/96776">直播间</a>
 
-http://cy3486.ys168.com/
+<a href = "http://cy3486.ys168.com/">永硕盘</a>
 
 感谢github为此页面提供技术支持！
