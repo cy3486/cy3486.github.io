@@ -1,6 +1,6 @@
 # 你好！我是玔堷！很高兴认识你！
 
-我的中文常用id是 玔堷，英文常用id是 cy3486
+我的中文常用id是 玔堷<a href = "https://cy3486.github.io/others/meaning.html/">( "玔堷"是什么意思？ )</a>，英文常用id是 cy3486
 
 我现在在念博士，研究激光器的，预计2025年毕业。
 
@@ -19,5 +19,10 @@
 <a href = "https://live.bilibili.com/96776">直播间</a>
 
 <a href = "http://cy3486.ys168.com/">永硕盘</a>
+
+一些不错的网站：
+https://ochicken.top/Library/
+
+
 
 感谢github为此页面提供技术支持！
