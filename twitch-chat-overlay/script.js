@@ -97,7 +97,7 @@ function addListeners() {
     showAdminMessage({
       message: "Connected...",
       attribs: { subtype: "connected" },
-      timeout: 5000,
+      timeout: 50000,
     });
 
     removeAdminChatLine({ subtype: "connecting" });
@@ -154,7 +154,7 @@ function addListeners() {
 
     showAdminMessage({
       message: `Joined ${chan}`,
-      timeout: 1000,
+      timeout: 10000,
     });
   });
 
@@ -166,7 +166,7 @@ function addListeners() {
     delete bttvEmoteCache.data[chan];
     showAdminMessage({
       message: `Parted ${chan}`,
-      timeout: 1000,
+      timeout: 10000,
     });
   });
 
@@ -212,7 +212,7 @@ function showMessage({
   type,
   message = "",
   data = {},
-  timeout = 3000,
+  timeout = 60000,
   attribs = {},
 } = {}) {
   let chatLine_ = document.createElement("div");
